@@ -1,2 +1,0 @@
-# react-test
-react project
